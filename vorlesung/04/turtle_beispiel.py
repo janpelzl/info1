@@ -1,4 +1,4 @@
-from turtle import *
+from turtle_beispiel import *
 
 def quadrat(kantenlaenge,x,y, dicke, farbe):
     pensize(dicke)
