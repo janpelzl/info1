@@ -1,7 +1,6 @@
 from turtle import *
 
 reset()
-
 for i in range(10,100,8):
     forward(i+2)
     left(90)
