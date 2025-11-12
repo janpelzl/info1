@@ -1,0 +1,10 @@
+liste = [1,2,3,"Hallo","Horst"]
+print(len(liste))
+print(liste.index("Horst"))
+liste.append("Eva")
+liste.append(17)
+print(liste)
+liste.remove("Horst")
+print(liste)
+print(liste+liste)
+print(5*liste)
