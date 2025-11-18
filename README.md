@@ -1,4 +1,4 @@
 # Informatik I
 
 Willkommen im Repository der Informatik I Übung.
-Die Übungsaufgaben samt Anlagen werden hier regelmäßig aktualisiert.
+Die Übungsaufgaben und die in der Vorlesung gezeigten Beispiele werden hier regelmäßig aktualisiert.
