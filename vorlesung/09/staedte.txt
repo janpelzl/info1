@@ -1,0 +1,6 @@
+Stadt      Einwohner   Einwohner/Quadratkilometer
+
+Hamburg     1792129     2369
+Berlin      3479740     3901
+München     1353186     4359
+Frankfurt   679664      2737
